@@ -1,8 +1,5 @@
 # Open-Source Satellite Projects & Resources
 
-> A catalog of open-source and near-open-source satellite projects, subsystems, software, and standards — curated for 6U/8U/12U builders.
->
->
 > **Last updated**: July 2026
 
 ---
